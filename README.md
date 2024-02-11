@@ -5,7 +5,7 @@
 
 ---
 
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently learning **Programming**
 
 - 🤝 I’m an Undergraduate at **IIT**
 
@@ -15,7 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/lashen martino" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lashen martino" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/lashen-martino" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lashen martino" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/23076639" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="23076639" height="30" width="40" /></a>
 <a href="https://fb.com/lashen martino" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="lashen martino" height="30" width="40" /></a>
 <a href="https://instagram.com/lashen_m_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lashen_m_" height="30" width="40" /></a>
