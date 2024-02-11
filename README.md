@@ -1,11 +1,13 @@
 <h1 align="center">Hi 👋, I'm Lashen Martino</h1>
 <h3 align="center">I am an IT Undergraduate 💻</h3>
 
-<p align="center"> <img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 75px /> </p>
+<p align="center"> <img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 75px alt="Github" /> </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lashen1227&label=Profile%20views&color=0e75b6&style=flat" alt="lashen1227" /> </p>
 
 ---
+
+<img width="42%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 - 🌱 I’m currently learning **Programming**
 
