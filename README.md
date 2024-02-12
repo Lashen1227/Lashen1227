@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lashen Martino</h1>
-<h3 align="center">I am an IT Undergraduate 💻</h3>
+<h3 align="center">A passionate IT student</h3>
 
 <p align="center"> <img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 75px alt="Code" /> </p>
 
