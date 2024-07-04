@@ -51,10 +51,10 @@
       <a href="https://lashen1227.github.io/portfolio/" target="blank"><img align="center" src="https://github-readme-stats.vercel.app/api?username=lashen1227&show_icons=true&count_private=true&theme=tokyonight"/></a>
     </td>
     <td>
-      <a href="https://lashen1227.github.io/portfolio/"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=lashen1227&theme=tokyonight&hide_border=false"/> </a>
+      <a href="https://lashen1227.github.io/portfolio/" target="blank"><img src="https://github-readme-streak-stats.herokuapp.com/?user=lashen1227&theme=tokyonight&hide_border=false"/></a>
     </td>
     <td>
-      <a href="https://lashen1227.github.io/portfolio/"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lashen1227&theme=tokyonight&include_all_commits=true&count_private=true&layout=compact"/></a>
+      <a href="https://lashen1227.github.io/portfolio/" target="blank"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lashen1227&theme=tokyonight&include_all_commits=true&count_private=true&layout=compact" height="200"/></a>
     </td>
   <tr>
 </table>
