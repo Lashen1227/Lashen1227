@@ -1,6 +1,4 @@
-<h1 align="center">Hi 👋, I'm Lashen Martino</h1>
-<h3 align="center">A passionate IT student</h3>
-
+<h2 align="center">Hi 👋, I'm Lashen Martino</h2>
 <p align="center"> <img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 75px alt="Code" /> </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lashen1227&label=Profile%20views&color=0e75b6&style=flat" alt="lashen1227" /> </p>
@@ -32,6 +30,7 @@
 
 <h3 align="center">Languages & Tools:</h3>
 <p align="center">
+<a href="https://react.dev/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg" alt="java" width="40" height="40"/></a>
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg" alt="java" width="40" height="40"/></a>
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" alt="html5" width="40" height="40"/></a> 
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" alt="css3" width="40" height="40"/></a> 
@@ -45,10 +44,19 @@
 
 ---
 
-<div align="center">
-  <a href="https://lashen1227.github.io/portfolio/" target="blank"><img src="https://github-readme-stats.vercel.app/api?username=lashen1227&show_icons=true&count_private=true&theme=tokyonight"/></a>
-  <a href="https://lashen1227.github.io/portfolio/" target="blank"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lashen1227&theme=tokyonight&include_all_commits=true&count_private=true&layout=compact" height="195"/></a>
-</div>
+<table align="center">
+  <tr border="none">
+    <td width="50%" align="center">
+      <img  align="left"  src="https://github-readme-stats.vercel.app/api?username=lashen1227&theme=tokyonight&show_icons=true&count_private=true&hide_border=false" />
+      <br>
+      <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=lashen1227&theme=tokyonight&hide_border=false" /> 
+    </td>
+      
+   <td width="50%" align="center">
+    <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=lashen1227&theme=tokyonight&hide_border=false&no-bg=true&no-frame=true&langs_count=6"/>
+   </td>
+  </tr>
+</table>
 
 ---
 
