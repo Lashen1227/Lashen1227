@@ -1,12 +1,11 @@
 <h2 align="center">Hi 👋, I'm Lashen Martino</h2>
 <p align="center"> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 75px alt="" /> </p>
 
-<p align="left"> <img src="https://visitcount.itsvg.in/api?id=Lashen1227&label=Profile%20Views&color=1&icon=0&pretty=true" alt="" /> </p>
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=lashen1227&label=Profile%20views&color=0e75b6&style=flat" alt="lashen1227" /> </p> -->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=lashen1227&label=Profile%20views&color=1E3A8A&style=flat" alt="" /> </p>
 
 ---
 
-<img width="42%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+<img width="42%" align="right" alt="" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 - 🌱 I’m currently learning **Programming**
 
@@ -29,7 +28,7 @@
 
 <h3 align="center">Languages & Tools:</h3>
 <p align="center">
-<a href="https://skillicons.dev" target="_blank"><img class="item" src="https://skillicons.dev/icons?i=react,java,spring,html,css,sass,js,nodejs,expressjs,mysql,mongodb,git,docker,py,selenium,tailwindcss,bootstrap,mui,figma,postman&theme=dark&perline=10"/</a> 
+<a href="https://skillicons.dev" target="blank"><img class="item" src="https://skillicons.dev/icons?i=react,java,spring,html,css,sass,js,nodejs,expressjs,mysql,mongodb,git,docker,py,selenium,tailwindcss,bootstrap,mui,figma,postman&theme=dark&perline=10"/</a> 
 </p>
 
 ---
