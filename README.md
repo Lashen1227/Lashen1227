@@ -19,17 +19,17 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://linkedin.com/in/lashen-martino" target="blank"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" height="31" width="40" /></a>
-<a href="https://stackoverflow.com/users/23076639" target="blank"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/StackOverflow-Dark.svg" height="31" width="40"/></a>
-<a href="https://www.behance.net/lashenmartino" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" height="30" width="40" /></a>
-<a href="https://medium.com/@lashenmartino" target="blank"><img src="https://github.com/user-attachments/assets/41aaa46e-5f40-43b2-94cd-c384c8438b1b" height="31" width="40" /></a>
+<a href="https://linkedin.com/in/lashen-martino" target="_blank"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" height="40" width="40" /></a>
+<a href="https://stackoverflow.com/users/23076639" target="_blank"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/StackOverflow-Dark.svg" height="40" width="40"/></a>
+<a href="https://www.behance.net/lashenmartino" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" height="40" width="40" /></a>
+<a href="https://medium.com/@lashenmartino" target="_blank"><img src="https://github.com/user-attachments/assets/41aaa46e-5f40-43b2-94cd-c384c8438b1b" height="40" width="40" /></a>
 </p>
 
 ---
 
 <h3 align="center">Languages & Tools:</h3>
 <p align="center">
-<a href="https://skillicons.dev" target="blank"><img class="item" src="https://skillicons.dev/icons?i=react,java,spring,html,css,sass,js,nodejs,expressjs,mysql,mongodb,git,docker,py,selenium,tailwindcss,bootstrap,mui,figma,postman&theme=dark&perline=10"/</a> 
+<a href="https://skillicons.dev" target="_blank"><img class="item" src="https://skillicons.dev/icons?i=react,java,spring,html,css,sass,js,nodejs,expressjs,mysql,mongodb,git,docker,py,selenium,tailwindcss,bootstrap,mui,figma,postman&theme=dark&perline=10"/</a> 
 </p>
 
 ---
