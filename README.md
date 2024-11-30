@@ -29,7 +29,7 @@
 
 <h3 align="center">Languages & Tools:</h3>
 <p align="center">
-<a href="https://skillicons.dev" target="_blank"><img class="item" src="https://skillicons.dev/icons?i=react,java,spring,html,css,sass,js,nodejs,expressjs,mysql,mongodb,git,docker,py,selenium,tailwindcss,bootstrap,mui,figma,postman&theme=dark&perline=10"/</a> 
+<a href="https://skillicons.dev" target="_blank"><img class="item" src="https://skillicons.dev/icons?i=react,java,spring,html,css,sass,js,ts,nodejs,expressjs,mysql,mongodb,git,py,selenium,tailwindcss,bootstrap,mui,figma,postman&theme=dark&perline=10"/</a> 
 </p>
 
 ---
