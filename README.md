@@ -14,9 +14,9 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://linkedin.com/in/lashen-martino" target="_blank"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" height="35" width="40" /></a>
-<a href="https://medium.com/@lashenmartino" target="_blank"><img src="https://github.com/user-attachments/assets/41aaa46e-5f40-43b2-94cd-c384c8438b1b" height="35" width="40" /></a>
-<a href="https://stackoverflow.com/users/23076639" target="_blank"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/StackOverflow-Dark.svg" height="35" width="40"/></a>
+<a href="https://linkedin.com/in/lashen-martino"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" height="40"/></a>&nbsp;
+<a href="https://medium.com/@lashenmartino"><img src="https://github.com/user-attachments/assets/41aaa46e-5f40-43b2-94cd-c384c8438b1b" height="40"/></a>&nbsp;
+<a href="https://stackoverflow.com/users/23076639"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/StackOverflow-Dark.svg" height="40"/></a>
 </p>
 
 ---
